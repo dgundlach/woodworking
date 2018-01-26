@@ -4,8 +4,6 @@
 #include <pcre.h>
 #include <stdlib.h>
 
-// aaa
-
 inline size_t pcre_vector_size(const char *re) {
 
   size_t rv = 3;
